@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=TheText
+comment0.target=kasirLabel(java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ cekMouse()
+comment3.params=
+comment3.target=void\ hasil()
+comment4.params=
+comment4.target=void\ hapus()
+comment5.params=
+comment5.target=void\ updateImage()
+numComments=6
